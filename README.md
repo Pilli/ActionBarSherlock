@@ -1,3 +1,10 @@
+NOTE
+=================
+
+This is the original version but compiled against newer versions of Android Support v4.
+
+Android Support v4 version: 19.0.0
+
 ActionBarSherlock
 =================
 
