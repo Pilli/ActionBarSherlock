@@ -5,6 +5,8 @@ This is the original version but compiled against newer versions of Android Supp
 
 Android Support v4 version: 19.0.0
 
+Maven repository: [https://bitbucket.org/algarcia/maven-repo](https://bitbucket.org/algarcia/maven-repo)
+
 ActionBarSherlock
 =================
 
